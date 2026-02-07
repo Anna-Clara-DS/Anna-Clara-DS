@@ -6,21 +6,19 @@
 - 🎓 Estudante de **Sistemas de Informação** na **Uninove**.
 - 🐍 Atualmente focada em fortalecer minha base em **Java** , **Python** e expandir para o ecossistema de análise de dados.
 - 🎮 Nas horas livres, adoro explorar minha criatividade **programando e criando jogos**.
-
+---
 ### 📚 Cursos e Certificações
 - **Python:** Fundamentos e lógica aplicada à análise de dados.
 - **Excel Avançado:** Manipulação de planilhas e organização de dados.
 - **Hardware & Software:** Conhecimentos técnicos de infraestrutura e sistemas operacionais.
 - **Desenvolvimento em Java:** Foco em Programação Orientada a Objetos e arquitetura MVC.
-
+---
 ### 📈 Objetivos em Dados
 Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica de programação para extrair insights valiosos e construir modelos inteligentes. Meus projetos atuais envolvem:
 - Estruturação de dados com Java (MVC).
 - Lógica algorítmica aplicada.
 - (Em breve) Projetos de análise exploratória e visualização com Python.
-
-
-
+---
 <p align="left">
     <a href="https://www.youtube.com/@Anna-Clara-DS?sub_confirmation=1">
         <img 
@@ -168,32 +166,16 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Anna-Clara-DS&show_icons=true&theme=Anna-Clara-DS&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Clara-DS&theme=Anna-Clara-DS&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="right" 
+    alt="Hello" 
+    title="Hello"
+    src="(https://cdn.discordapp.com/attachments/1469770593200115945/1469770695310573569/picasion.com_9b2c178cbea3042e990e04e1cd536dca.gif" 
+/>
 
-</p>
+<br/>
+<br/>
 
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anna-Clara-DS/AnnaClaraDS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anna-Clara-DS/AnnaClaraDS/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anna-Clara-DS/AnnaClaraDS/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
