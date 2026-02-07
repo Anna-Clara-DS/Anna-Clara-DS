@@ -173,9 +173,16 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
     src="(https://cdn.discordapp.com/attachments/1469770593200115945/1469770695310573569/picasion.com_9b2c178cbea3042e990e04e1cd536dca.gif" 
 />
 
-<br/>
-<br/>
+#
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anna-Clara-DS/Anna-Clara-DS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anna-Clara-DS/Anna-Clara-DS/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anna-Clara-DS/Anna-Clara-DS/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<br/><br/>
 
 
 
