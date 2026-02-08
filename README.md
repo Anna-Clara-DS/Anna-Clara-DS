@@ -1,6 +1,28 @@
+## Hi there, I`m Anna Clara! 👋 
 ## Olá, eu sou a Anna Clara! 👋   
-
+**`(versão em PT-BR logo abaixo da Ing)`**
 ![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)
+
+**`🎯 Aspiring Data Scientist / Data Analyst`**
+I am a developer in constant evolution, focused on building solutions that bridge the gap between clean code and high functionality. I believe technology is the most powerful tool for turning ideas into reality. Feel free to explore my projects below! If you’d like to chat about tech or potential opportunities, let’s connect on "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" or drop me a **`hello via`** "[E-Mail](mailto:annaclaradsilva19@gmail.com)".
+
+###👩‍💻 About Me
+- 🎓 Information Systems student at Uninove.
+- 🐍 Currently focusing on strengthening my foundations in Java and Python while expanding into the data science ecosystem.
+- 🎮 In my free time, I love exploring my creativity by programming and developing games.
+---
+###📚 Courses & Certifications
+- Python: Fundamentals and logic applied to data analysis.
+- Advanced Excel: Data manipulation, organization, and spreadsheet modeling.
+- Hardware & Software: Technical expertise in infrastructure and operating systems.
+- Java Development: Focused on Object-Oriented Programming (OOP) and MVC architecture.
+---
+###📈 Data Goals
+I am transitioning into the world of data, where I aim to apply my programming logic to extract valuable insights and build intelligent models. My current projects involve:
+- Data structuring with Java (MVC).
+- Applied algorithmic logic.
+- (Coming Soon) Exploratory Data Analysis (EDA) and visualization projects using Python.
+---
 
 **`- 🎯 Aspirante a **Cientista de Dados** / **Analista de Dados**.`**
 
