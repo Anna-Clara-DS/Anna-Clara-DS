@@ -6,18 +6,19 @@
 **`🎯 Aspiring Data Scientist / Data Analyst`**
 I am a developer in constant evolution, focused on building solutions that bridge the gap between clean code and high functionality. I believe technology is the most powerful tool for turning ideas into reality. Feel free to explore my projects below! If you’d like to chat about tech or potential opportunities, let’s connect on "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" or drop me a **`hello`** via "[E-Mail](mailto:annaclaradsilva19@gmail.com)".
 
-###👩‍💻 About Me
+### 👩‍💻 About Me
 - 🎓 Information Systems student at Uninove.
 - 🐍 Currently focusing on strengthening my foundations in Java and Python while expanding into the data science ecosystem.
 - 🎮 In my free time, I love exploring my creativity by programming and developing games.
----
-###📚 Courses & Certifications
+ --- 
+### 📚 Courses & Certifications
 - Python: Fundamentals and logic applied to data analysis.
 - Advanced Excel: Data manipulation, organization, and spreadsheet modeling.
 - Hardware & Software: Technical expertise in infrastructure and operating systems.
 - Java Development: Focused on Object-Oriented Programming (OOP) and MVC architecture.
 ---
-###📈 Data Goals
+### 📈 Data Goals
+
 I am transitioning into the world of data, where I aim to apply my programming logic to extract valuable insights and build intelligent models. My current projects involve:
 - Data structuring with Java (MVC).
 - Applied algorithmic logic.
