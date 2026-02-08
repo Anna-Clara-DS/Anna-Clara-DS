@@ -1,4 +1,6 @@
-## Olá, eu sou a Anna Clara! 👋
+## Olá, eu sou a Anna Clara! 👋   
+
+![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)
 
 **`- 🎯 Aspirante a **Cientista de Dados** / **Analista de Dados**.`**
 
