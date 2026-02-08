@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)
 
-**`🎯 Aspiring Data Scientist / Data Analyst`**
+**`-🎯 Aspiring Data Scientist / Data Analyst`**
 
 I am a developer in constant evolution, focused on building solutions that bridge the gap between clean code and high functionality. I believe technology is the most powerful tool for turning ideas into reality. Feel free to explore my projects below! If you’d like to chat about tech or potential opportunities, let’s connect on "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" or drop me a **`hello`** via "[E-Mail](mailto:annaclaradsilva19@gmail.com)".
 
