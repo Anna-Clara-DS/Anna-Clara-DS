@@ -4,6 +4,10 @@
 
 **`- 🎯 Aspirante a **Cientista de Dados** / **Analista de Dados**.`**
 
+Sou uma desenvolvedora em constante evolução, focada em construir soluções que unam código limpo e funionalidade.
+Acredito que a tecnologia é a ferramenta mais poderosa para transformar ideias em realidade.
+Fique á vontade para dar uma olhada nos meus projetos abaixo! Se quiser trocar uma ideia sobre tecnologia ou oportunidades, você pode me encontrar no "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" ou me dar um **`oi`** por "[E-Mail](annaclaradsilva19@gmail.com)".
+
 ### 👩‍💻 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação** na **Uninove**.
 - 🐍 Atualmente focada em fortalecer minha base em **Java** , **Python** e expandir para o ecossistema de análise de dados.
@@ -169,7 +173,24 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-#
+### Vamos nos conectar? 
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anna-Clara-DS/Anna-Clara-DS/output/github-contribution-grid-snake-dark.svg">
