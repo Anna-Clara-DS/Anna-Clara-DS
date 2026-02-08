@@ -166,12 +166,6 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="right" 
-    alt="Hello" 
-    title="Hello"
-    src="(https://cdn.discordapp.com/attachments/1469770593200115945/1469770695310573569/picasion.com_9b2c178cbea3042e990e04e1cd536dca.gif" 
-/>
 
 #
 
