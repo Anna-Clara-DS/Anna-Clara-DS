@@ -6,7 +6,7 @@
 
 Sou uma desenvolvedora em constante evolução, focada em construir soluções que unam código limpo e funionalidade.
 Acredito que a tecnologia é a ferramenta mais poderosa para transformar ideias em realidade.
-Fique á vontade para dar uma olhada nos meus projetos abaixo! Se quiser trocar uma ideia sobre tecnologia ou oportunidades, você pode me encontrar no "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" ou me dar um **`oi`** por "[E-Mail](annaclaradsilva19@gmail.com)".
+Fique á vontade para dar uma olhada nos meus projetos abaixo! Se quiser trocar uma ideia sobre tecnologia ou oportunidades, você pode me encontrar no "[Linkedln](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/)" ou me dar um **`oi`** por "[E-Mail](mailto:annaclaradsilva19@gmail.com)".
 
 ### 👩‍💻 Sobre mim
 - 🎓 Estudante de **Sistemas de Informação** na **Uninove**.
