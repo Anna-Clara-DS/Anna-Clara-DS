@@ -3,7 +3,7 @@
 ## Olá, eu sou a Anna Clara! 👋 
 **`(versão em PT-BR logo abaixo da Ing)`**
 
-![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)
+  -------------------------------------------------------- ![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)------------------------------------------------------
 
 **`-🎯 Aspiring Data Scientist / Data Analyst`**
 
