@@ -1,9 +1,19 @@
-## Hi there, I`m Anna Clara! 👋 
 
-## Olá, eu sou a Anna Clara! 👋 
-**`(versão em PT-BR logo abaixo da Ing)`**
+<p align="center">
+  
+  ## Hi there, I`m Anna Clara! 👋 / Olá, eu sou a Anna Clara! 👋
+  
+  **`(versão em PT-BR logo abaixo da Ing)`**
+ 
+</p>
 
-  -------------------------------------------------------- ![Image](https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9)------------------------------------------------------
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9" width="400px" />
+  <p>Just Me!</p>
+</div>
+
+
+---
 
 **`-🎯 Aspiring Data Scientist / Data Analyst`**
 
