@@ -75,7 +75,7 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anna-Clara-DS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📌 Activity Graph
-[![Gabriela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anna-Clara-DS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anna-Clara-DS&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <p align="left">
@@ -225,6 +225,22 @@ Estou em transição para o mundo dos dados, onde pretendo aplicar minha lógica
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+---
+---
+
+
+## 📫 Connect with Me
+<a href="https://www.linkedin.com/in/gabriela-marculino-297493164/](https://www.linkedin.com/in/anna-clara-d-silva-67a054339/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:annaclaradsilva19@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="http://lattes.cnpq.br/4241732961026968" target="_blank">
+  <img src="https://img.shields.io/badge/-Lattes-%231877B5?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
 
 ---
 <picture align="center">
